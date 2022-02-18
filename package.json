@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nomadicafrican/tinyappreview/issues"
   },
-  "homepage": "https://github.com/nomadicafrican/tinyappreview#readme"
+  "homepage": "https://github.com/nomadicafrican/tinyappreview#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
